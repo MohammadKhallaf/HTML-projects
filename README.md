@@ -3,4 +3,4 @@ For HTML courses projects and tasks
 
 ## Projects of LinkedIn Courses:
 
-## Projects of el-Zero track
+## Projects of el-Zero Course:
